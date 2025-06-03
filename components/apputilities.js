@@ -200,8 +200,8 @@ const validateUSZipCode = (zipCode) => {
 };
 
 const mapToken = Platform.OS === 'ios' 
-  ? "AIzaSyDJBtkKgPrYf0Dv5zn9znG16lQbf9hEqDU"
-  : "AIzaSyDJBtkKgPrYf0Dv5zn9znG16lQbf9hEqDU";
+  ? "###"
+  : "###";
 
 const getLatLong = async (zipcode) => {
     try {
