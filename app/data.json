@@ -1,0 +1,27 @@
+{
+	"date": 1724801894.270517, 
+	"request": {
+		"content": {
+			"attachments": [Array], 
+			"badge": null, 
+			"body": "Tix update for bar: Domesticated Ape", 
+			"categoryIdentifier": "", 
+			"data": [Object], 
+			"interruptionLevel": "active", 
+			"launchImageName": "", 
+			"sound": "default", 
+			"subtitle": null, 
+			"summaryArgument": null, 
+			"summaryArgumentCount": 0, 
+			"targetContentIdentifier": null, 
+			"threadIdentifier": "", 
+			"title": "Tix Update"
+			}, 
+		"identifier": "9D41CB82-7DBD-4B69-9CC8-293982B53D28", 
+		"trigger": {
+			"class": "UNPushNotificationTrigger", 
+			"payload": [Object], 
+			"type": "push"
+		}
+	}
+}
